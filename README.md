@@ -28,4 +28,6 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vinayak-mittal
 | Theme | next-themes |
 | Markdown | react-markdown |
 | Icons | lucide-react |
-| Hosting | Vercel (recommended) |
+| Hosting | Vercel (recommended) |      
+
+..   --
