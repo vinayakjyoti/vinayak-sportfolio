@@ -29,9 +29,3 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vinayak-mittal
 | Markdown | react-markdown |
 | Icons | lucide-react |
 | Hosting | Vercel (recommended) |
-
-    
-
-.   
-
-.  .  
