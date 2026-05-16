@@ -84,7 +84,7 @@ export const portfolio: PortfolioData = {
   initials: "VM",
   avatar: "/avatar.png",
   location: "Greater Noida, India",
-  email: "vinayakjyotimittal@gmail.com",
+  email: "vinayakmyth@gmail.com",
   shortBio:
     "Full-stack engineer building scalable applications with Next.js, React, and modern web technologies.",
   longBio:
@@ -93,7 +93,7 @@ export const portfolio: PortfolioData = {
   socialLinks: [
     { label: "GitHub", href: "https://github.com/vinayakjyoti", icon: "github", external: true },
     { label: "LinkedIn", href: "https://www.linkedin.com/in/vinayak-mittal1/", icon: "linkedin", external: true },
-    { label: "Email", href: "mailto:vinayakjyotimittal@gmail.com", icon: "email" },
+    { label: "Email", href: "mailto:vinayakmyth@gmail.com", icon: "email" },
     { label: "LeetCode", href: "https://leetcode.com/u/Vinayakjyotimittal/", icon: "website", external: true },
   ],
   skills: [
